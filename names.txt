@@ -1,2 +1,3 @@
-boss,cgong29@wisc.edu,Gong,Chengjing
+role,NetID,Lastname,Firstname
+boss,cgong29,Gong,Chengjing
 employee,gjsorrell,Sorrell,Gregory
